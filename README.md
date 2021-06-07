@@ -5,7 +5,7 @@
 This purpose of this project is to initiate the beginning a business plan based on bikesharing in New York City. After visiting the city and using these bikes, the client believes a similar venture would be profitable in her home town. Data from NYC Citi Bike August of 2019 was used to create the following analysis.
 
 Resources used:
-- Tableau Public
+- Tableau Public: Link to dashboard https://public.tableau.com/app/profile/juleah/viz/bikesharing_16230951804710/Story2
 - Python
 - Data from https://www.citibikenyc.com/system-data
 
